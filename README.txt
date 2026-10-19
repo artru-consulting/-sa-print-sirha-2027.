@@ -1,0 +1,1 @@
+Publier les 3 fichiers HTML à la racine du dépôt GitHub. Remplacer index.html existant. Vérifier le champ RCS dans mentions-legales.html et les conditions réelles de traitement des données avant diffusion. Les images existantes restent inchangées.
